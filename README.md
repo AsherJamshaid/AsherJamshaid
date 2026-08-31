@@ -33,9 +33,9 @@ started with data analysis, vibecoded a react native app somewhere along the way
 
 <div align="center">
 
-![Asher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsherJamshaid&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=AsherJamshaid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -43,7 +43,7 @@ started with data analysis, vibecoded a react native app somewhere along the way
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.com/AsherJamshaid?theme=dark&font=Nunito&ext=contest)
+<img src="https://leetcard.jacoblin.com/AsherJamshaid?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats"/>
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-ashcodes__121-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashcodes_121)
 
