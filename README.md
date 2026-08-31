@@ -4,14 +4,10 @@
 
 </div>
 
----
-
 ### hey, i'm asher 👋
 
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
 started with data analysis, vibecoded a react native app somewhere along the way, and still going.
-
----
 
 ### 🛠 stuff i've worked with
 
@@ -21,37 +17,37 @@ started with data analysis, vibecoded a react native app somewhere along the way
 
 </div>
 
-**Data & Analysis**
-`pandas` `matplotlib` `Jupyter`
+**Data & Analysis** — `pandas` `matplotlib` `Jupyter`
 
-**Mobile**
-`React Native`
+**Mobile** — `React Native`
 
-**Tools**
-`Git` `GitHub` `VS Code`
-
----
+**Tools** — `Git` `GitHub` `VS Code`
 
 ### 📁 projects
 
 | project | what it does | stack |
 |---|---|---|
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
-| **React Native App** | vibecoded mobile app | React Native |
-
----
 
 ### 📊 github stats
 
 <div align="center">
 
-![Asher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsherJamshaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c73e6&icon_color=7c73e6&text_color=c9d1d9)
+![Asher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsherJamshaid&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c73e6&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
----
+### 🧩 competitive programming
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.com/AsherJamshaid?theme=dark&font=Nunito&ext=contest)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-ashcodes__121-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashcodes_121)
+
+</div>
 
 ### 🔗 find me
 
@@ -62,8 +58,6 @@ started with data analysis, vibecoded a react native app somewhere along the way
 [![CodeChef](https://img.shields.io/badge/CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashcodes_121)
 
 </div>
-
----
 
 <div align="center">
 
