@@ -43,7 +43,7 @@ started with data analysis, vibecoded a react native app somewhere along the way
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.com/AsherJamshaid?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats"/>
+<img src="https://leetcode-stats.vercel.app/api?username=AsherJamshaid&theme=dark" alt="LeetCode Stats"/>
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-ashcodes__121-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashcodes_121)
 
