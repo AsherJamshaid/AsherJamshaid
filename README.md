@@ -9,6 +9,10 @@
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
 started with data analysis, vibecoded a react native app, built AI automations, and still going.
 
+### 🚀 currently building
+
+**[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
+
 ### 🛠 stuff i've worked with
 
 <div align="center">
@@ -21,7 +25,7 @@ started with data analysis, vibecoded a react native app, built AI automations, 
 
 **Mobile** — `React Native`
 
-**AI & Automation** — `n8n` `Webhooks` `REST APIs`
+**AI & Automation** — `n8n` `Gemini API` `Webhooks` `REST APIs`
 
 **Tools** — `Git` `GitHub` `VS Code` `Supabase`
 
