@@ -7,7 +7,7 @@
 ### hey, i'm asher 👋
 
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
-started with data analysis, vibecoded a react native app, built AI automations, and still going.
+started with data analysis, built AI automations, and still going.
 
 ### currently building
 
