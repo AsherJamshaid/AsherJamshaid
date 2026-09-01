@@ -7,13 +7,13 @@
 ### hey, i'm asher 👋
 
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
-started with data analysis, vibecoded a react native app somewhere along the way, and still going.
+started with data analysis, vibecoded a react native app, built AI automations, and still going.
 
 ### 🛠 stuff i've worked with
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,git,github,vscode,supabase&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -21,7 +21,9 @@ started with data analysis, vibecoded a react native app somewhere along the way
 
 **Mobile** — `React Native`
 
-**Tools** — `Git` `GitHub` `VS Code`
+**AI & Automation** — `n8n` `Webhooks` `REST APIs`
+
+**Tools** — `Git` `GitHub` `VS Code` `Supabase`
 
 ### 📁 projects
 
