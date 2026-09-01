@@ -9,11 +9,11 @@
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
 started with data analysis, vibecoded a react native app, built AI automations, and still going.
 
-### 🚀 currently building
+### currently building
 
 **[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
 
-### 🛠 stuff i've worked with
+### stuff i've worked with
 
 <div align="center">
 
@@ -29,13 +29,13 @@ started with data analysis, vibecoded a react native app, built AI automations, 
 
 **Tools** — `Git` `GitHub` `VS Code` `Supabase`
 
-### 📁 projects
+### projects
 
 | project | what it does | stack |
 |---|---|---|
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
 
-### 📊 github stats
+### github stats
 
 <div align="center">
 
@@ -47,7 +47,7 @@ started with data analysis, vibecoded a react native app, built AI automations, 
 
 </div>
 
-### 🧩 competitive programming
+### competitive programming
 
 <div align="center">
 
