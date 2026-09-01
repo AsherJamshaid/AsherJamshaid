@@ -9,6 +9,8 @@
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
 started with data analysis, vibecoded apps, built AI automations, and still going.
 
+![Profile Views](https://komarev.com/ghpvc/?username=AsherJamshaid&color=7c73e6&style=flat)
+
 ### currently building
 
 **[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
