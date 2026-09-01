@@ -7,17 +7,17 @@
 ### hey, i'm asher 👋
 
 cs student at NED uni — been building things with code, breaking them, and figuring out why.  
-started with data analysis, built AI automations, and still going.
+started with data analysis, vibecoded apps, built AI automations, and still going.
 
 ### currently building
 
 **[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
 
-### stuff i've worked with
+### 🛠 stuff i've worked with
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,git,github,vscode,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,nodejs,git,github,vscode,supabase,firebase,stripe&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -25,15 +25,18 @@ started with data analysis, built AI automations, and still going.
 
 **Mobile** — `React Native`
 
-**AI & Automation** — `n8n` `Gemini API` `Webhooks` `REST APIs`
+**Backend** — `Node.js` `Render` `REST APIs`
 
-**Tools** — `Git` `GitHub` `VS Code` `Supabase`
+**AI & Automation** — `n8n` `Gemini API` `Webhooks`
+
+**Tools** — `Git` `GitHub` `VS Code` `Supabase` `Firebase` `Stripe` `Plaid`
 
 ### projects
 
 | project | what it does | stack |
 |---|---|---|
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
+| **LLC Financial App**  | full stack financial management app — payments, banking integrations, auth, and backend | React Native, Supabase, Firebase, Stripe, Plaid, Node.js, Render |
 
 ### github stats
 
