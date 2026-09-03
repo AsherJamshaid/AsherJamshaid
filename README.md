@@ -6,7 +6,7 @@
 
 ### hey, i'm asher 👋
 
-cs student at NED uni — been building things with code, breaking them, and figuring out why.  
+cs student at NED uni — been building things with code, breaking them, and figuring out why.
 started with data analysis, built AI automations, and still going.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsherJamshaid&color=7c73e6&style=flat)
@@ -19,26 +19,32 @@ started with data analysis, built AI automations, and still going.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,nodejs,git,github,vscode,supabase,firebase,stripe&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,nodejs,express,ts,postgres,prisma,git,github,vscode,supabase,firebase,netlify,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 </div>
 
+**Mobile** — `React Native` `Expo` `TypeScript` `Expo Router` `Biometrics` `Push Notifications`
+
+**Backend** — `Node.js` `Express.js` `TypeScript` `Prisma ORM` `PostgreSQL` `JWT` `Zod` `bcrypt`
+
+**Payments & Banking** — `Stripe` `Plaid`
+
+**AI & Automation** — `Gemini API` `n8n` `Webhooks` `REST APIs`
+
+**Infrastructure** — `Supabase` `Render` `Netlify` `Firebase` `Resend` `EAS`
+
+**Security** — `JWT refresh rotation` `Rate limiting` `CORS` `Helmet.js` `IDOR protection` `Webhook verification`
+
 **Data & Analysis** — `pandas` `matplotlib` `Jupyter`
 
-**Mobile** — `React Native`
-
-**Backend** — `Node.js` `Render` `REST APIs`
-
-**AI & Automation** — `n8n` `Gemini API` `Webhooks`
-
-**Tools** — `Git` `GitHub` `VS Code` `Supabase` `Firebase` `Stripe` `Plaid`
+**Tools** — `Git` `GitHub` `VS Code` `Vite` `TanStack Query` `Tailwind CSS`
 
 ### projects
 
 | project | what it does | stack |
 |---|---|---|
+| **LLC Financial App** | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
-| **LLC Financial App**  | full stack financial management app — payments, banking integrations, auth, and backend | React Native, Supabase, Firebase, Stripe, Plaid, Node.js, Render |
 
 ### github stats
 
