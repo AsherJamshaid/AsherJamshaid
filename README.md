@@ -43,7 +43,7 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 | project | what it does | stack |
 |---|---|---|
-| **LLC Financial App** 🔒 | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
+| **LLC Financial App** | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
 
 ### github stats
