@@ -1,21 +1,33 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asher%20Jamshaid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20NED%20University&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:0d0d1a,50:0a0a2e,100:00d4ff&height=200&section=header&text=Asher%20Jamshaid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20NED%20University&descAlignY=58&descSize=18&rotate=-8)
 
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=building+things+%F0%9F%94%A8;breaking+things+%F0%9F%92%A5;figuring+out+why+%F0%9F%A7%A0;shipping+anyway+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ### hey, i'm asher 👋
 
 cs student at NED uni — been building things with code, breaking them, and figuring out why.
 started with data analysis, shipped a full stack fintech app, built AI automations, and still going.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsherJamshaid&color=7c73e6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AsherJamshaid&color=00d4ff&style=flat)
 
-### currently building
+---
+
+### 🚀 currently building
 
 **[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
 
-### stuff i've worked with
+---
+
+### 🛠 stuff i've worked with
 
 <div align="center">
 
@@ -29,36 +41,52 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 **Payments & Banking** — `Stripe` `Plaid`
 
-**AI & Automation** — `Gemini API` `n8n` `Webhooks` `REST APIs` `Docker`
+**AI & Automation** — `Gemini API` `n8n` `Webhooks` `REST APIs`
 
 **Infrastructure** — `Supabase` `Render` `Netlify` `Firebase` `Resend` `EAS` `Docker`
 
-**Security** — `JWT refresh rotation` `Rate limiting` `CORS` `Helmet.js` `IDOR protection` `Webhook verification`
+**Security** — `JWT refresh rotation` `Rate limiting` `CORS` `Helmet.js` `IDOR protection`
 
 **Data & Analysis** — `pandas` `matplotlib` `Jupyter`
 
 **Tools** — `Git` `GitHub` `VS Code` `Vite` `TanStack Query` `Tailwind CSS`
 
-### projects
+---
+
+### 📁 projects
 
 | project | what it does | stack |
 |---|---|---|
-| **LLC Financial App** | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
+| **LLC Financial App** 🔒 | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
 
-### github stats
+---
+
+### 📊 github stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AsherJamshaid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=AsherJamshaid&theme=radical&hide_border=true&background=0d0d1a&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsherJamshaid&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
-### competitive programming
+---
+
+### 🏆 github trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AsherJamshaid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+### 🧩 competitive programming
 
 <div align="center">
 
@@ -67,6 +95,18 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 [![CodeChef](https://img.shields.io/badge/CodeChef-ashcodes__121-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashcodes_121)
 
 </div>
+
+---
+
+### 🐍 contribution graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AsherJamshaid/AsherJamshaid/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 ### 🔗 find me
 
@@ -80,6 +120,6 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00d4ff,50:0a0a2e,100:0d0d1a&height=120&section=footer&rotate=8)
 
 </div>
