@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:0d0d1a,50:0a0a2e,100:00d4ff&height=200&section=header&text=Asher%20Jamshaid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20NED%20University&descAlignY=58&descSize=18&rotate=-8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a0a2e,100:00d4ff&height=200&section=header&text=Asher%20Jamshaid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20NED%20University&descAlignY=58&descSize=18)
 
 </div>
 
@@ -21,13 +21,13 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 ---
 
-### 🚀 currently building
+### currently building
 
 **[Calvrex](https://www.calvrex.com)** — an AI agency focused on voice agents and business automation. building it from the ground up.
 
 ---
 
-### 🛠 stuff i've worked with
+### stuff i've worked with
 
 <div align="center">
 
@@ -53,16 +53,16 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 ---
 
-### 📁 projects
+### projects
 
 | project | what it does | stack |
 |---|---|---|
-| **LLC Financial App** 🔒 | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Gemini, Firebase, Supabase |
+| **LLC Financial App** | production fintech app — subscriptions, bank sync, AI assistant, push notifications, admin panel | React Native, Node.js, PostgreSQL, Stripe, Plaid, Firebase, Supabase |
 | **FIFA World Cup Analysis** | host advantage + goals trends across World Cup history | Python, pandas, matplotlib |
 
 ---
 
-### 📊 github stats
+### github stats
 
 <div align="center">
 
@@ -76,17 +76,7 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 ---
 
-### 🏆 github trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AsherJamshaid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-### 🧩 competitive programming
+### competitive programming
 
 <div align="center">
 
@@ -98,7 +88,7 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 ---
 
-### 🐍 contribution graph
+### contribution graph
 
 <div align="center">
 
@@ -108,7 +98,7 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 ---
 
-### 🔗 find me
+### find me
 
 <div align="center">
 
@@ -120,6 +110,6 @@ started with data analysis, shipped a full stack fintech app, built AI automatio
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00d4ff,50:0a0a2e,100:0d0d1a&height=120&section=footer&rotate=8)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a0a2e,100:0d0d1a&height=120&section=footer)
 
 </div>
